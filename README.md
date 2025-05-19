@@ -4,7 +4,7 @@ Este é um jogo da memória desenvolvido com HTML, CSS e JavaScript, com tema do
 
 ## 🎮 Demonstração
 
-![Screenshot do jogo](./html/img/Captura%20de%20tela%202025-04-12%20211645.png)
+![Captura de tela 2025-05-19 195341](https://github.com/user-attachments/assets/9e7a612d-77ea-4516-9dfd-7b98f00cbc93)
 
 ## 🚀 Funcionalidades
 
@@ -20,3 +20,4 @@ Este é um jogo da memória desenvolvido com HTML, CSS e JavaScript, com tema do
 - JavaScript (puro)
 [README.md](https://github.com/user-attachments/files/20316647/README.md)
 [jogo da memoria..zip](https://github.com/user-attachments/files/20316802/jogo.da.memoria.zip)
+
